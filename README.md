@@ -3,8 +3,6 @@ Facial Verification using Siamese networks
 
 ## Face-Verification kivy App
 
-** This is the stuff we need to do **
-
 1. Setup app folder
 2. Install Kivy
 3. Setup validation folder
